@@ -1,0 +1,450 @@
+[
+    {
+        "name": "Weight Ball",
+        "type": "toggle",
+        "img": "images/items/weightball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weightball"
+    },
+    {
+        "name": "TELE TWISTER",
+        "type": "toggle",
+        "img": "images/items/teleporter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teleporters-teletwister"
+    },
+    {
+        "name": "GUN JUMPER",
+        "type": "toggle",
+        "img": "images/items/magblaster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzonefinalii-gunjumper"
+    },
+    {
+        "name": "ASCENSION",
+        "type": "toggle",
+        "img": "images/items/jetpack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzonefinal-ascension"
+    },
+    {
+        "name": "WORKING LATE",
+        "type": "toggle",
+        "img": "images/items/desk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "officework-workinglate"
+    },
+    {
+        "name": "Pistol",
+        "type": "toggle",
+        "img": "images/items/pistol.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pistol"
+    },
+    {
+        "name": "Magnum",
+        "type": "toggle",
+        "img": "images/items/magnum.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magnum"
+    },
+    {
+        "name": "Mag Blaster",
+        "type": "toggle",
+        "img": "images/items/magblaster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magblaster"
+    },
+    {
+        "name": "SWING SHOES",
+        "type": "toggle",
+        "img": "images/items/rope.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzone-swingshoes"
+    },
+    {
+        "name": "Boots",
+        "type": "toggle",
+        "img": "images/items/boots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boots"
+    },
+    {
+        "name": "PRO TOUR",
+        "type": "toggle",
+        "img": "images/items/chainsaw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chainsawracing-protour"
+    },
+    {
+        "name": "Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key"
+    },
+    {
+        "name": "Virtual Shotgun",
+        "type": "toggle",
+        "img": "images/items/virtualshotgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "virtualshotgun"
+    },
+    {
+        "name": "Quad Laser",
+        "type": "toggle",
+        "img": "images/items/quadlaser.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "quadlaser"
+    },
+    {
+        "name": "Chaingun",
+        "type": "toggle",
+        "img": "images/items/chaingun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chaingun"
+    },
+    {
+        "name": "INDUSTRIAL SHOOTOUT",
+        "type": "toggle",
+        "img": "images/items/desk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "officework-industrialshootout"
+    },
+    {
+        "name": "DUCK DODGER",
+        "type": "toggle",
+        "img": "images/items/teleporter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teleporters-duckdodger"
+    },
+    {
+        "name": "STEP 3: HEADQUARTERS",
+        "type": "toggle",
+        "img": "images/items/combatshotgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "targetmissions-step3headquarters"
+    },
+    {
+        "name": "Grenade Launcher",
+        "type": "toggle",
+        "img": "images/items/grenadelauncher.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grenadelauncher"
+    },
+    {
+        "name": "GRINDY 500",
+        "type": "toggle",
+        "img": "images/items/chainsaw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chainsawracing-grindy500"
+    },
+    {
+        "name": "STEP 2: INTEL",
+        "type": "toggle",
+        "img": "images/items/suitcase.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "targetmissions-step2intel"
+    },
+    {
+        "name": "DEATH RAY 101",
+        "type": "toggle",
+        "img": "images/items/hugelaser.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzone-deathray101"
+    },
+    {
+        "name": "PHASER 101",
+        "type": "toggle",
+        "img": "images/items/phaser.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzone2-phaser101"
+    },
+    {
+        "name": "SWING MACE",
+        "type": "toggle",
+        "img": "images/items/maceball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzonefinal-swingmace"
+    },
+    {
+        "name": "CHAINGUN JETPACK",
+        "type": "toggle",
+        "img": "images/items/jetpack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weapontraining-chaingunjetpack"
+    },
+    {
+        "name": "Jetpack",
+        "type": "toggle",
+        "img": "images/items/jetpack.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jetpack"
+    },
+    {
+        "name": "Wall Boots",
+        "type": "toggle",
+        "img": "images/items/wallboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wallboots"
+    },
+    {
+        "name": "MACE FACE",
+        "type": "toggle",
+        "img": "images/items/maceball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzone2-maceface"
+    },
+    {
+        "name": "Sniper",
+        "type": "toggle",
+        "img": "images/items/sniper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sniper"
+    },
+    {
+        "name": "STEP 1: OFFICE RAID",
+        "type": "toggle",
+        "img": "images/items/pistol.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "targetmissions-step1officeraid"
+    },
+    {
+        "name": "SUPER DUCK CHAMP",
+        "type": "toggle",
+        "img": "images/items/wallboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "supersawduck-superduckchamp"
+    },
+    {
+        "name": "SNIPER 101",
+        "type": "toggle",
+        "img": "images/items/sniper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzonefinal-sniper101"
+    },
+    {
+        "name": "OBSTACLE COURSE",
+        "type": "toggle",
+        "img": "images/items/star.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzone-obstaclecourse"
+    },
+    {
+        "name": "GRENADE LAUNCHER 101",
+        "type": "toggle",
+        "img": "images/items/grenadelauncher.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weapontraining-grenadelauncher101"
+    },
+    {
+        "name": "Mace Collar",
+        "type": "toggle",
+        "img": "images/items/maceball.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "macecollar"
+    },
+    {
+        "name": "Crates",
+        "type": "toggle",
+        "img": "images/items/crate.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crates"
+    },
+    {
+        "name": "Grapple",
+        "type": "toggle",
+        "img": "images/items/grapple.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grapple"
+    },
+    {
+        "name": "Helmet",
+        "type": "toggle",
+        "img": "images/items/helmet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "helmet"
+    },
+    {
+        "name": "Combat Shotgun",
+        "type": "toggle",
+        "img": "images/items/combatshotgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "combatshotgun"
+    },
+    {
+        "name": "REBOUND 101",
+        "type": "toggle",
+        "img": "images/items/laserrifle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzonefinalii-rebound101"
+    },
+    {
+        "name": "Grenade",
+        "type": "toggle",
+        "img": "images/items/grenade.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "grenade"
+    },
+    {
+        "name": "Phaser",
+        "type": "toggle",
+        "img": "images/items/phaser.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phaser"
+    },
+    {
+        "name": "LABYRINTH",
+        "type": "toggle",
+        "img": "images/items/teleporter.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "teleporters-labyrinth"
+    },
+    {
+        "name": "WOAH, SPIKES!",
+        "type": "toggle",
+        "img": "images/items/wallboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "supersawduck-woahspikes"
+    },
+    {
+        "name": "OPEN ROAD",
+        "type": "toggle",
+        "img": "images/items/chainsaw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chainsawracing-openroad"
+    },
+    {
+        "name": "Shotgun",
+        "type": "toggle",
+        "img": "images/items/shotgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "shotgun"
+    },
+    {
+        "name": "SWING SHOTGUN",
+        "type": "toggle",
+        "img": "images/items/combatshotgun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzone2-swingshotgun"
+    },
+    {
+        "name": "DOOR CRASHER",
+        "type": "toggle",
+        "img": "images/items/door.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "officework-doorcrasher"
+    },
+    {
+        "name": "Sword",
+        "type": "toggle",
+        "img": "images/items/sword.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sword"
+    },
+    {
+        "name": "Snubby Pistol",
+        "type": "toggle",
+        "img": "images/items/snubbypistol.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "snubbypistol"
+    },
+    {
+        "name": "SAW CHAMPION",
+        "type": "toggle",
+        "img": "images/items/wallboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "varietyzonefinalii-sawchampion"
+    },
+    {
+        "name": "Laser Rifle",
+        "type": "toggle",
+        "img": "images/items/laserrifle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "laserrifle"
+    },
+    {
+        "name": "Huge Laser",
+        "type": "toggle",
+        "img": "images/items/hugelaser.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hugelaser"
+    },
+    {
+        "name": "Chainsaw",
+        "type": "toggle",
+        "img": "images/items/chainsaw.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chainsaw"
+    },
+    {
+        "name": "MAGNUM TRAINING",
+        "type": "toggle",
+        "img": "images/items/magnum.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weapontraining-magnumtraining"
+    },
+    {
+        "name": "WALL JUMP 101",
+        "type": "toggle",
+        "img": "images/items/wallboots.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "supersawduck-walljump101"
+    }
+]

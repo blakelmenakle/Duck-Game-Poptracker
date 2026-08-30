@@ -1,0 +1,175 @@
+[
+    {
+        "name": "TARGET MISSIONS",
+        "chest_unopened_img": "/images/items/bronze.png",
+        "chest_opened_img": "/images/items/bronze_open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "STEP 1 OFFICE RAID",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "targetmissions-step1officeraid, snubbypistol, pistol"
+                ],
+                "sections": [
+                    {
+                        "name": "Bronze Medal",
+                        "access_rules": [],
+                        "visibility_rules": ["bronzeon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Silver Medal",
+                        "chest_unopened_img": "/images/items/silver.png",
+                        "chest_opened_img": "/images/items/silver_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["silveron"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gold Medal",
+                        "chest_unopened_img": "/images/items/gold.png",
+                        "chest_opened_img": "/images/items/gold_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["goldon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Platinum Medal",
+                        "chest_unopened_img": "/images/items/platinum.png",
+                        "chest_opened_img": "/images/items/platinum_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["platinumon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Developer Medal",
+                        "chest_unopened_img": "/images/items/developer.png",
+                        "chest_opened_img": "/images/items/developer_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["developeron"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "arcade",
+                        "x": 544,
+                        "y": 206
+                    }
+                ]
+            },
+            {
+                "name": "STEP 2 INTEL",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "targetmissions-step2intel, pistol, key, jetpack"
+                ],
+                "sections": [
+                    {
+                        "name": "Bronze Medal",
+                        "access_rules": [],
+                        "visibility_rules": ["bronzeon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Silver Medal",
+                        "chest_unopened_img": "/images/items/silver.png",
+                        "chest_opened_img": "/images/items/silver_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["silveron"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gold Medal",
+                        "chest_unopened_img": "/images/items/gold.png",
+                        "chest_opened_img": "/images/items/gold_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["goldon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Platinum Medal",
+                        "chest_unopened_img": "/images/items/platinum.png",
+                        "chest_opened_img": "/images/items/platinum_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["platinumon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Developer Medal",
+                        "chest_unopened_img": "/images/items/developer.png",
+                        "chest_opened_img": "/images/items/developer_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["developeron"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "arcade",
+                        "x": 544,
+                        "y": 220
+                    }
+                ]
+            },
+            {
+                "name": "STEP 3 HEADQUARTERS",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "targetmissions-step3headquarters, key, crates, magnum, boots, combatshotgun"
+                ],
+                "sections": [
+                    {
+                        "name": "Bronze Medal",
+                        "access_rules": [],
+                        "visibility_rules": ["bronzeon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Silver Medal",
+                        "chest_unopened_img": "/images/items/silver.png",
+                        "chest_opened_img": "/images/items/silver_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["silveron"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gold Medal",
+                        "chest_unopened_img": "/images/items/gold.png",
+                        "chest_opened_img": "/images/items/gold_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["goldon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Platinum Medal",
+                        "chest_unopened_img": "/images/items/platinum.png",
+                        "chest_opened_img": "/images/items/platinum_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["platinumon"],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Developer Medal",
+                        "chest_unopened_img": "/images/items/developer.png",
+                        "chest_opened_img": "/images/items/developer_open.png",
+                        "access_rules": [],
+                        "visibility_rules": ["developeron"],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "arcade",
+                        "x": 544,
+                        "y": 234
+                    }
+                ]
+            }
+        ]
+    }
+]

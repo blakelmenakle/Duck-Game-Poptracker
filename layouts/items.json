@@ -1,0 +1,233 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "pistol",
+                                "snubbypistol",
+                                "magnum",
+                                "magblaster",
+                                "phaser"
+                            ],
+                            [
+                                
+                                "sniper",
+                                "shotgun",
+                                "combatshotgun",                         
+                                "virtualshotgun",
+                                "chaingun"
+                            ],
+                            [
+                                "grenade",
+                                "grenadelauncher",
+                                "laserrifle",
+                                "hugelaser",
+                                "quadlaser"
+                                
+                            ],
+                            [
+                                "helmet",
+                                "boots",
+                                "wallboots",
+                                "grapple",
+                                "jetpack"
+                            ],
+                            [
+                                "sword",
+                                "chainsaw",
+                                "weightball",
+                                "macecollar",
+                                "crates",
+                                "key"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "pistol",
+                                "snubbypistol",
+                                "magnum",
+                                "magblaster",
+                                "phaser"
+                            ],
+                            [
+                                
+                                "sniper",
+                                "shotgun",
+                                "combatshotgun",                         
+                                "virtualshotgun",
+                                "chaingun"
+                            ],
+                            [
+                                "grenade",
+                                "grenadelauncher",
+                                "laserrifle",
+                                "hugelaser",
+                                "quadlaser"
+                                
+                            ],
+                            [
+                                "helmet",
+                                "boots",
+                                "wallboots",
+                                "grapple",
+                                "jetpack"
+                            ],
+                            [
+                                "sword",
+                                "chainsaw",
+                                "weightball",
+                                "macecollar",
+                                "crates",
+                                "key"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "level_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "weapontraining-grenadelauncher101",
+                                "weapontraining-magnumtraining",
+                                "weapontraining-chaingunjetpack",
+                                "officework-workinglate",
+                                "officework-doorcrasher",
+                                "officework-industrialshootout"
+                            ],
+                            [
+                                "chainsawracing-openroad",
+                                "chainsawracing-protour",
+                                "chainsawracing-grindy500",
+                                "supersawduck-walljump101",
+                                "supersawduck-woahspikes",
+                                "supersawduck-superduckchamp"
+                            ],
+                            [
+                                "varietyzone-obstaclecourse",
+                                "varietyzone-deathray101",
+                                "varietyzone-swingshoes",
+                                "targetmissions-step1officeraid",
+                                "targetmissions-step2intel",
+                                "targetmissions-step3headquarters"
+                            ],
+                            [
+                                "varietyzone2-maceface",
+                                "varietyzone2-phaser101",
+                                "varietyzone2-swingshotgun",
+                                "teleporters-teletwister",
+                                "teleporters-labyrinth",
+                                "teleporters-duckdodger"
+                            ],
+                            [
+                                "varietyzonefinalii-gunjumper",
+                                "varietyzonefinalii-rebound101",
+                                "varietyzonefinalii-sawchampion",
+                                "varietyzonefinal-ascension",
+                                "varietyzonefinal-sniper101",
+                                "varietyzonefinal-swingmace"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "settings_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "use_bronze_medal"
+                            ],
+                            [
+                                "use_silver_medal"
+                            ],
+                            [
+                                "use_gold_medal"
+                            ],
+                            [
+                                "use_platinum_medal"
+                            ],
+                            [
+                                "use_developer_medal"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
