@@ -1,8 +1,8 @@
 [
     {
         "name": "arcade",
-        "location_size": 12,
-        "location_border_thickness": 1,
+        "location_size": 36,
+        "location_border_thickness": 6,
         "img": "images/maps/arcade.png"
     }
 ]
