@@ -25,6 +25,6 @@ No AI was knowingly used to create this pack outside of VS Code's auto-complete 
 
 ## Special Thanks
 
-Marsavue for creating the [Duck Game AP World](https://github.com/Marsavue/Archipelago-DuckGame/releases).
-1e1001 for supplying a higher quality arcade image and placing the locations on the map.
+Marsavue for creating the [Duck Game AP World](https://github.com/Marsavue/Archipelago-DuckGame/releases).  
+1e1001 for supplying a higher quality arcade image and placing the locations on the map.  
 Stripes007 for creating the [PopTracker Pack Builder](https://github.com/StripesOO7/poptracker-pack-builder).
