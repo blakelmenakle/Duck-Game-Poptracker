@@ -31,7 +31,7 @@
                                 "shotgun",
                                 "combatshotgun",                         
                                 "virtualshotgun",
-                                "chaingun"
+                                "ak47"
                             ],
                             [
                                 "grenade",
@@ -51,8 +51,8 @@
                             [
                                 "sword",
                                 "chainsaw",
-                                "weightball",
-                                "macecollar",
+                                "chaingun",
+                                "mace",
                                 "crates",
                                 "key"
                             ]

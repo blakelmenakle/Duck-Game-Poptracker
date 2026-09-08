@@ -1,13 +1,5 @@
 [
     {
-        "name": "Weight Ball",
-        "type": "toggle",
-        "img": "images/items/weightball.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "weightball"
-    },
-    {
         "name": "TELE TWISTER",
         "type": "toggle",
         "img": "images/items/teleporter.png",
@@ -272,12 +264,12 @@
         "codes": "weapontraining-grenadelauncher101"
     },
     {
-        "name": "Mace Collar",
+        "name": "Mace",
         "type": "toggle",
         "img": "images/items/maceball.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "macecollar"
+        "codes": "mace"
     },
     {
         "name": "Crates",
@@ -446,5 +438,13 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "supersawduck-walljump101"
+    },
+    {
+        "name": "AK47",
+        "type": "toggle",
+        "img": "images/items/ak47.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ak47"
     }
 ]
