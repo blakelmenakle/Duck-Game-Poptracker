@@ -4,16 +4,16 @@
     "type": "progressive",
     "allow_disabled":false,
     "loop":true,
-    "initial_stage_idx": 0,
-    "stages": [      
-      {
-        "img": "images/items/bronze.png",
-        "codes": "use_bronze_medal,bronzeon",
-        "inherit_codes":false
-      },
+    "initial_stage_idx": 1,
+    "stages": [
       {
         "img": "images/items/bronze_open.png",
         "codes": "use_bronze_medal,bronzeoff",
+        "inherit_codes":false
+      },    
+      {
+        "img": "images/items/bronze.png",
+        "codes": "use_bronze_medal,bronzeon",
         "inherit_codes":false
       }
     ]
@@ -23,16 +23,16 @@
     "type": "progressive",
     "allow_disabled":false,
     "loop":true,
-    "initial_stage_idx": 0,
+    "initial_stage_idx": 1,
     "stages": [
-      {
-        "img": "images/items/silver.png",
-        "codes": "use_silver_medal,silveron",
-        "inherit_codes":false
-      },
       {
         "img": "images/items/silver_open.png",
         "codes": "use_silver_medal,silveroff",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/items/silver.png",
+        "codes": "use_silver_medal,silveron",
         "inherit_codes":false
       }
     ]
@@ -42,16 +42,16 @@
     "type": "progressive",
     "allow_disabled":false,
     "loop":true,
-    "initial_stage_idx": 0,
+    "initial_stage_idx": 1,
     "stages": [
-      {
-        "img": "images/items/gold.png",
-        "codes": "use_gold_medal,goldon",
-        "inherit_codes":false
-      },
       {
         "img": "images/items/gold_open.png",
         "codes": "use_gold_medal,goldoff",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/items/gold.png",
+        "codes": "use_gold_medal,goldon",
         "inherit_codes":false
       }
     ]
@@ -61,16 +61,16 @@
     "type": "progressive",
     "allow_disabled":false,
     "loop":true,
-    "initial_stage_idx": 0,
+    "initial_stage_idx": 1,
     "stages": [
-      {
-        "img": "images/items/platinum.png",
-        "codes": "use_platinum_medal,platinumon",
-        "inherit_codes":false
-      },
       {
         "img": "images/items/platinum_open.png",
         "codes": "use_platinum_medal,platinumoff",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/items/platinum.png",
+        "codes": "use_platinum_medal,platinumon",
         "inherit_codes":false
       }
     ]
@@ -80,16 +80,16 @@
     "type": "progressive",
     "allow_disabled":false,
     "loop":true,
-    "initial_stage_idx": 0,
+    "initial_stage_idx": 1,
     "stages": [
-      {
-        "img": "images/items/developer.png",
-        "codes": "use_developer_medal,developeron",
-        "inherit_codes":false
-      },
       {
         "img": "images/items/developer_open.png",
         "codes": "use_developer_medal,developeroff",
+        "inherit_codes":false
+      },
+      {
+        "img": "images/items/developer.png",
+        "codes": "use_developer_medal,developeron",
         "inherit_codes":false
       }
     ]

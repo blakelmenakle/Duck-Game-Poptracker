@@ -279,6 +279,7 @@ function OnClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
+    -- print(DumpTable(SLOT_DATA))
     -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
     --     AutoFill(slot_data)
     -- end
@@ -302,46 +303,26 @@ function OnClear(slot_data)
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
     MANUAL_CHECKED = true
 
-    for k, v in pairs(slot_data.options) do
+    for k, v in pairs(SLOT_DATA) do
         if k == "use_bronze_medal" then
             local item = Tracker:FindObjectForCode("use_bronze_medal")
-            if v == true then
-                item.CurrentStage = 0
-            else
-                item.CurrentStage = 1
-            end
+            item.CurrentStage = v
         end
         if k == "use_silver_medal" then
             local item = Tracker:FindObjectForCode("use_silver_medal")
-            if v == true then
-                item.CurrentStage = 0
-            else
-                item.CurrentStage = 1
-            end
+            item.CurrentStage = v
         end
         if k == "use_gold_medal" then
             local item = Tracker:FindObjectForCode("use_gold_medal")
-            if v == true then
-                item.CurrentStage = 0
-            else
-                item.CurrentStage = 1
-            end
+            item.CurrentStage = v
         end
         if k == "use_platinum_medal" then
             local item = Tracker:FindObjectForCode("use_platinum_medal")
-            if v == true then
-                item.CurrentStage = 0
-            else
-                item.CurrentStage = 1
-            end
+            item.CurrentStage = v
         end
         if k == "use_developer_medal" then
             local item = Tracker:FindObjectForCode("use_developer_medal")
-            if v == true then
-                item.CurrentStage = 0
-            else
-                item.CurrentStage = 1
-            end
+            item.CurrentStage = v
         end
     end
 end
