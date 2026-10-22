@@ -34,7 +34,7 @@
             ]
         },
       {
-            "package_version": "0.01",
+            "package_version": "0.0.1",
             "download_url": "https://github.com/blakelmenakle/Duck-Game-Poptracker/releases/download/v0.0.1/Duck-Game-Poptracker-v-0-0-1.zip",
             "sha256": "319189beb6fbc6bb3966fc5c19ff45bb1c40a37eab78beed9598d4eb9ff90b74",
             "changelog": [
