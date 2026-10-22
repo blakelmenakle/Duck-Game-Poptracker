@@ -133,7 +133,7 @@
                         "name": "Silver Medal",
                         "chest_unopened_img": "/images/items/silver.png",
                         "chest_opened_img": "/images/items/silver_open.png",
-                        "access_rules": [],
+                        "access_rules": ["[helmet]"],
                         "visibility_rules": ["silveron"],
                         "item_count": 1
                     },
